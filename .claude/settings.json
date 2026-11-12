@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": {
+    "mirnova6-skills": {
+      "source": {
+        "source": "github",
+        "repo": "mirnova6/claude-code"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "remotion-motion-graphics@mirnova6-skills": true,
+    "threejs-skills@mirnova6-skills": true,
+    "web-animation-skills@mirnova6-skills": true,
+    "tiktok-video-skills@mirnova6-skills": true,
+    "data-animation-skills@mirnova6-skills": true
+  }
+}
